@@ -96,12 +96,9 @@ Open `driver_monitoring_app.html` in your browser.
 
 ## 🛡️ Contributors
 👤 Pushkaraj Potdar  
+👤 Himanshi Pandey
+👤 Sujal Wagh
 👥 Team Tech-Mates – HackOrbit 2025
-
----
-
-## 📄 License
-MIT License. Feel free to use, modify, and share.
 
 ---
 
